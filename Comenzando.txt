@@ -1,3 +1,4 @@
-Hola, soy Alberto Cházaro Romero.
+Hola.
 
 Aprendiendo Git y GitHub en Platzi con Freddy Vega.
+Modifianco el archivo de nuevo
