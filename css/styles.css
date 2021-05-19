@@ -16,3 +16,8 @@ body {
 #container h1 {
 font-size: 20px;
 }
+#container p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-shadow: 0px 1px 1px tomato;
+}
