@@ -36,3 +36,11 @@ font-size: 20px;
     font-size: 15px;
     text-shadow: 0px 1px 1px tomato;
 }
+.container {
+    background-color: #333;
+    color: silver;
+    width: 72%;
+    padding: 2px 0;
+    text-align: center;
+    margin: 0 auto;
+}
